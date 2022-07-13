@@ -1,0 +1,6 @@
+com\lunafactory\datahandler\ProductHandler.class
+com\lunafactory\datamodel\Product.class
+com\lunafactory\datamodel\ProductWrapper.class
+com\lunafactory\controller\ProductController.class
+com\lunafactory\datamodel\Product$Dimension.class
+com\lunafactory\lunatech\LunatechApplication.class
